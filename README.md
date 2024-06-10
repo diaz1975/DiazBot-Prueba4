@@ -133,5 +133,5 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 [![TheShadowBrokers1](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
 
 ### 🌟 CREADOR 
-[![KatashiFukushima](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
-> Copyright (c) 2024 **[KatashiFukushima](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/LICENSE)**.
+DÍAZ MOD
+> Copyright (c) 2024 **[DiazMod](https://github.com/diaz1975/DiazBot-v3/blob/master/LICENSE)**.
