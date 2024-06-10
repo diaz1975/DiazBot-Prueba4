@@ -89,21 +89,21 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 
 if (!/web|desktop|unknown/gi.test(dispositivo)) {  
 let menu = `
-╭═══〘卐 _Katashi bot MD_ 卐〙═══⊷❍
+╭═══〘卐 _Diaz bot v3_ 卐〙═══⊷❍
 ┃☭╭──────────────
-┃☭│ 〘 卐 _ᴏᴡɴᴇʀs ᴏғᴄ_ 卐 〙
+┃☭│ 〘 卐 _owners ofc_ 卐 〙
 ┃☭│ 
-┃☭│ _ᴋᴀᴛᴀsʜɪ ғᴜᴋᴜsʜɪᴍᴀ 🥷🏻_
+┃☭│ _Diaz Mod 🥷🏻_
 ┃☭│ _ɪᴢɪ_ 𝅙
 ┃☭│ シWɪʟsᴏɴシ︎
 ┃☭│
 ┃☭│    ║▌│█║▌│█║▌│█│║▌║
 ┃☭│    ║▌│█║▌│█║▌│█│║▌║
-┃☭│ᴋᴀᴛᴀsʜɪ ʙᴏᴛ x ᴋᴀᴛᴀsʜɪ ғᴜᴋᴜsʜɪᴍᴀ
+┃☭│Diaz Bot x ᴋᴀᴛᴀsʜɪ ғᴜᴋᴜsʜɪᴍᴀ
 ┃☭│ 
 ┃☭╰───────────────
 ╰═════════════════⊷
-╭════〘卐 _INFO KATASHI BOT_ 卐〙════⊷❍
+╭════〘卐 _INFO DIAZ BOT_ 卐〙════⊷❍
 ┃
 ┃☭│ ᩭ✎ \`\`\`${horarioFecha}\`\`\`
 ┃☭│ ᩭ✎ *${lenguajeGB['smsTotalUsers']()}* ➺ _${Object.keys(global.db.data.users).length}_ 
@@ -164,7 +164,7 @@ const message = { messageContextInfo: { deviceListMetadata: {}, deviceListMetada
 await conn.relayMessage(m.chat, { viewOnceMessage: { message } }, {})
       
 } else { 
-let menu = `╭═══〘卐 _Katashi bot MD_ 卐〙═══⊷❍
+let menu = `╭═══〘卐 _Diaz bot v3_ 卐〙═══⊷❍
 ┃ ${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : taguser} 💖*
 
 ┃☭│ \`\`\`${horarioFecha}\`\`\`
