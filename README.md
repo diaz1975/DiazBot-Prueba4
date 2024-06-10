@@ -23,7 +23,7 @@
 </p>  
 
 <p align="center">
-<a href="#"><img title="KatashiBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
+<a href="#"><img title="DiazBot-v3" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
 </p>
 
 <p align="center">   
@@ -72,63 +72,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 
 //Una vez hecho estos cambios ejecute los nuevos comandos en Termux
 ```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
-  
-### 🪄 (OPCIÓN 2) INSTALACIÓN MANUAL POR TERMUX - GITHUB 
-> **Note** Comandos para instalar de forma manual
-```bash
-termux-setup-storage
-```
-```bash
-apt update
-```
-```bash
-apt upgrade
-```
-```bash
-pkg install -y git nodejs ffmpeg imagemagick yarn
-```
-```bash
-git clone https://github.com/KatashiFukushima/KatashiBot-MD
-```
-```bash
-cd KatashiBot-MD
-```
-```bash
-yarn install
-```
-```bash
-npm install
-```
-```bash
-npm start
-```
-> **Warning** Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
-  
-### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
-> **Note** Descargué y Descomprime
-### [`KatashiBot-MD ~ Archivos`](https://github.com/KatashiFukushima/KatashiBot-MD/archive/refs/heads/master.zip)
-[![blog](https://img.shields.io/badge/NO_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://www.youtube.com/shorts/ZLJYDUM6vSY)
-```bash
-termux-setup-storage
-apt update
-apt upgrade
-pkg install -y git nodejs ffmpeg imagemagick yarn
-cd storage/downloads/KatashiBot-MD-master/KatashiBot-MD-master 
-yarn install
-npm install
-npm start
-```
-* #### APLICACIÓN RECOMENDADA PARA [`DESCOMPRIMIR`](https://play.google.com/store/apps/details?id=com.rarlab.rar)
-* #### APLICACIÓN RECOMENDADA PARA EDITAR [`NÚMERO DE OWNER`](https://play.google.com/store/apps/details?id=com.rhmsoft.code)
-> **Note** Guardar los archivos en la ubicación: storage/downloads/KatashiBot-MD-master/KatashiBot-MD-master   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
-  
+
 ### 🚀 USAR KATASHIBOT 24/7 EN TERMUX 
 > Ejecutar estos comandos dentro de la carpeta KatashiBot-MD
 ```bash
