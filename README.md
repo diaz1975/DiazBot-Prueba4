@@ -124,11 +124,6 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
 
-### 🌟 DESARROLLADORES
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=KatashiFukushima/KatashiBot-MD" /> 
-</a>
-
 ### 🌟 AGRADECIMIENTOS
 [![TheShadowBrokers1](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
 
