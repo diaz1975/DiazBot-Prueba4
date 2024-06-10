@@ -1,8 +1,8 @@
-# KatashiBot-MD
+# DiazBot-v3
 > <b>🚀 VERSIÓN 3.0</b>
 
 <p align="center"> 
-<a href="https://github.com/KatashiFukushima"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=KatashiBot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
+<a href="https://github.com/Diaz1975"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=KatashiBot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -19,7 +19,7 @@
 <p align="center">
 
 <p align="center">
-<a href="#"><img title="KatashiBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APÓYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DiazBot-v3" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APÓYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>  
 
 <p align="center">
@@ -49,7 +49,7 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/diaz1975/DiazBot-v1/master/katashi.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/diaz1975/DiazBot-v3/master/katashi.sh | bash
 ```
 ```js
 // PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
