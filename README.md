@@ -73,7 +73,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 //Una vez hecho estos cambios ejecute los nuevos comandos en Termux
 ```
 
-### 🚀 USAR KATASHIBOT 24/7 EN TERMUX 
+### 🚀 USAR DIAZBOT 24/7 EN TERMUX 
 > Ejecutar estos comandos dentro de la carpeta KatashiBot-MD
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
@@ -98,7 +98,7 @@ pm2 start index
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
   
-### 🥷🏻 ACTUALIZAR KATASHIBOT
+### 🥷🏻 ACTUALIZAR DIAZBOT
 > **Note** Comandos para actualizar KatashiBot-MD de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/KatashiFukushima/KatashiBot-MD/master/update.sh | bash 
@@ -108,13 +108,11 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
 
-
-> Recuerda leer la **[Política de KatashiBot. 🥷](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/terms.md)** antes de hacer algo con este repositorio. 
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
   
-### 💠 [`IDIOMAS DISPONIBLES PARA KATASHIBOT`](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/config.js) 
+### 💠 [`IDIOMAS DISPONIBLES PARA DIAZBOT`](https://github.com/Diaz1975/DiazBot-v3/blob/master/config.js) 
 #### 🌐 Español  
 #### 🌐 Inglés (English) 
 #### 🌐 Portugués (Português)
