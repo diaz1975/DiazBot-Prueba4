@@ -2,7 +2,7 @@
 > <b>🚀 VERSIÓN 3.0</b>
 
 <p align="center"> 
-<a href="https://github.com/Diaz1975"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=KatashiBot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
+<a href="https://github.com/Diaz1975"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=DiazBot-v3;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
