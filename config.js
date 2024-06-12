@@ -15,11 +15,11 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 global.owner = [
 ['13328951160', '☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆', false],
 ['573234231940', '𝙊𝙬𝙣𝙚𝙧', true],  
-['5217442363122', '𝑖𝑍𝑖', false],
-['59175655964', 'Alba070503', false],
-['5217294888993'], ['5217445404792'],
-['573012482597'],
-['5492964650915']]
+['573234231940', '𝑖𝑍𝑖', false],
+['573234231940', 'Alba070503', false],
+['573234231940'], ['573234231940'],
+['573234231940'],
+['573234231940']]
 
 global.mods = []
 global.prems = []
@@ -117,12 +117,12 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51948705559", '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 💻', 1], 
-["5217442363122", '𝑖𝑍𝑖 👻', 1],  
-["5493513446678", 'Martin Batman', 1],
-["5218771647787", 'IssSG', 1],
-["51948273587", 'Katashi Two', 1],
-["5492964650915", '♥️🎩⚠︎    シ︎𝑾𝒊𝒍𝖘𝒐𝒏シ︎   ⚠︎🎩♥️', 1],
+["573234231940", '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 💻', 1], 
+["573234231940", '𝑖𝑍𝑖 👻', 1],  
+["573234231940", 'Martin Batman', 1],
+["573234231940", 'IssSG', 1],
+["573234231940", 'Katashi Two', 1],
+["573234231940", '♥️🎩⚠︎    シ︎𝑾𝒊𝒍𝖘𝒐𝒏シ︎   ⚠︎🎩♥️', 1],
 ["573234231940", 'Diaz', 1]]
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -171,7 +171,7 @@ global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "51948273587"
+global.nomorown = "573234231940"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
