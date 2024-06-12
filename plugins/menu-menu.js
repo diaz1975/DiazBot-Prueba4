@@ -219,7 +219,7 @@ ${generateCommand(commandsReport, usedPrefix)}
 
 ${margen}
 
-> 🪅 *KATASHIBOT TEMPORAL* 🪅\n
+> 🪅 *DIAZBOT TEMPORAL* 🪅\n
 ${generateCommand(commandsLink, usedPrefix)}
 
 ${margen}
